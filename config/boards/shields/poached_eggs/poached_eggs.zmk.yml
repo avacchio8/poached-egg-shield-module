@@ -3,7 +3,7 @@ id: poached_eggs
 name: Poached Eggs
 type: shield
 url: https://example.com/
-requires: [seeed_xiao]
+requires: [seeeduino_xiao_ble]
 features:
   - keys
   - studio
